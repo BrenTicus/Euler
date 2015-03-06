@@ -1,6 +1,7 @@
 /*
 Problem 1 - Find the sum of all multiples of 3 and 5 less than 1000.
 */
+package main
 
 import "fmt"
 
